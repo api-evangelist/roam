@@ -1,0 +1,34 @@
+# Roam
+
+> Roam is the assumable mortgage marketplace. Buy or sell a home with a low-rate FHA or VA loan at withroam.com.
+
+Roam is a nationwide real estate platform that helps buyers and sellers transact on homes with assumable FHA and VA mortgages. An assumable mortgage allows a qualified buyer to take over the seller's existing home loan, inheriting the original interest rate, remaining balance, and loan terms. With sellers holding FHA and VA loans at 2-3% interest rates and today's market rates at 6%+, assumable mortgages can save buyers hundreds of thousands of dollars in interest over the life of the loan. For sellers, a low-rate assumable mortgage is a proven competitive advantage that attracts more buyers, reduces time on market, and can support a higher sale price. Roam manages the entire FHA and VA loan assumption process end-to-end, from buyer qualification and lender coordination to paperwork and 45-day closing.
+
+## Buyers
+
+- [Browse homes with assumable FHA and VA mortgages](https://www.withroam.com/): Search Roam's nationwide marketplace of homes listed with low-rate assumable loans.
+- [How Roam Works for Homebuyers](https://www.withroam.com/blog/how-roam-works-for-homebuyers): Step-by-step breakdown of how home buyers use Roam to find low-rate assumable mortgages, qualify for a loan assumption, and close on a home with a below-market interest rate.
+- [How Roam Works for Assumable Mortgages](https://www.withroam.com/blog/how-roam-works-for-assumable-mortgages): Deep dive on Roam's end-to-end approach to FHA and VA loan assumptions, including buyer eligibility, lender approval, down payment gap financing, and closing coordination.
+- [Assumable Mortgage 101: A Comprehensive Buyer's Guide](https://www.withroam.com/blog/assumable-mortgage-101-a-comprehensive-buyers-guide): Evergreen guide covering what an assumable mortgage is, how the assumption process works, who qualifies, and how buyers can save significantly by assuming a seller's low-rate FHA or VA loan instead of taking out a new mortgage at today's rates.
+
+## Sellers
+
+- [List your home with an assumable FHA or VA loan](https://www.withroam.com/sellers): Homeowners with assumable mortgages can list with Roam and market their low interest rate as a financial advantage to attract qualified buyers and sell their home faster at a higher price.
+- [How to Sell a House with a Mortgage (2026 Guide)](https://www.withroam.com/blog/how-to-sell-a-house-with-a-mortgage-2026-guide): Comprehensive 2026 guide to selling a home that still has an assumable mortgage, including how to leverage an assumable FHA or VA loan as a selling advantage in a high-rate market.
+- [Assumable Mortgage Seller Guide](https://www.withroam.com/blog/assumable-mortgage-seller-guide): Complete resource for homeowners on how to prepare, price, and market a home with an assumable low-rate mortgage, and how Roam manages the assumption process from listing to closing.
+
+## Core Concepts
+
+- Assumable Mortgage: A home loan, typically FHA or VA, that a qualified buyer can take over from the seller, preserving the original interest rate, loan balance, and repayment terms instead of taking out a new mortgage.
+- FHA Loan Assumption: Federal Housing Administration loans are assumable by qualified buyers.
+- VA Loan Assumption: Department of Veterans Affairs loans are assumable and do not require the buyer to be a veteran. Investors can also assume VA loans.
+- Interest Rate Advantage: The difference between a seller's existing mortgage rate (e.g., 2-3%) and today's market rate (6%+) represents significant financial value that transfers to the buyer in an assumption.
+- Down Payment Gap Financing: The difference between the home's purchase price and the remaining loan balance. Buyers typically cover this with cash or a second loan. Roam facilitates proprietary secondary financing options that can enable buyers to put as little as 5% down.
+- Mortgage Assumption Process: The formal process by which a buyer takes over a seller's existing loan, requiring lender and loan servicer approval, buyer qualification, and closing, all managed by Roam.
+
+## About Roam
+
+- Roam operates nationwide across the United States.
+- Roam works with FHA and VA mortgages, the two legally assumable loan types in the U.S.
+- Roam is free for sellers. For buyers, a small fee is charged at closing for managing the assumption process.
+- Website: [withroam.com](https://www.withroam.com)

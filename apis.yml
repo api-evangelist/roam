@@ -1,8 +1,15 @@
 aid: roam
 name: Roam
-description: 'Roam is a company surfaced as a portfolio company of fifth-wall, ivp and added to the API
-  Evangelist network as a stub for enrichment. Sector: proptech. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Roam (withroam.com) is a nationwide assumable-mortgage marketplace that
+  helps homebuyers and sellers transact on homes carrying low-rate, legally assumable
+  FHA and VA loans. A qualified buyer can take over a seller''s existing mortgage,
+  inheriting the original interest rate, remaining balance, and terms, which in a
+  6%+ market against sellers'' 2-3% loans can save buyers hundreds of thousands in
+  interest. Roam manages the end-to-end assumption process from buyer qualification
+  and lender coordination through paperwork and a 45-day close, and offers proprietary
+  secondary financing so buyers can put as little as 5% down. It is a proptech company
+  backed by Fifth Wall and IVP. Roam publishes no public developer API; this profile
+  captures its public web, security, and llms.txt surface.'
 url: https://raw.githubusercontent.com/api-evangelist/roam/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +18,32 @@ x-backed-by:
 - ivp
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.withroam.com/favicon.ico
 tags:
 - Company
 - Proptech
+- Real Estate
+- Mortgage
+- Assumable Mortgage
+- FHA
+- VA Loan
+- Fintech
+- Marketplace
+- Home Buying
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +53,32 @@ maintainers:
 common:
 - type: Website
   url: https://www.withroam.com/
+- type: Blog
+  url: https://www.withroam.com/blog
+- type: Support
+  url: https://www.withroam.com/contact
+- type: FAQ
+  url: https://www.withroam.com/faq
+- type: GettingStarted
+  url: https://www.withroam.com/how-it-works
+- type: TermsOfService
+  url: https://www.withroam.com/terms
+- type: PrivacyPolicy
+  url: https://www.withroam.com/privacy
+- type: LLMsTxt
+  url: llms/roam-llms.txt
+- type: WellKnown
+  url: well-known/roam-well-known.yml
+- type: SecurityTxt
+  url: well-known/roam-security.txt
+- type: DomainSecurity
+  url: security/roam-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/roam-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.withroam.com/.well-known/security.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
